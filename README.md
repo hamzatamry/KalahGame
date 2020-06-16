@@ -20,5 +20,8 @@ How to run the game ?
           windows : kalah
           Linux : ./kalah
           
- Enjoy it.
+ This version of code contain only french comments. If the english comments are needed let me know i will make the english comments version soon.
+ 
+ ENJOY IT
+  
 
