@@ -20,4 +20,5 @@ How to run the game ?
           windows : kalah
           Linux : ./kalah
           
-          
+ Enjoy it.
+
