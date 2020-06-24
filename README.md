@@ -1,5 +1,5 @@
 # kalah-game
-kalah game projet known also as mancala game made with C and SDL2. Here you will find either console version or graphical user interface version.
+kalah game known also as mancala game made with C and SDL2. Here you will find either console version or graphical user interface version.
 
 How to run the game ?
 
