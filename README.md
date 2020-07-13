@@ -26,7 +26,7 @@ How to run the game ?
  
   Console: [Kalah_Console](http://www.mediafire.com/file/dea7hup4amralo9/Kalah_Console.rar/file) 
     
-  GUI: [KalahGame](http://www.mediafire.com/file/qzxo0g3myhcpbt1/Kalah_SDL2.rar/file)
+  GUI: [Kalah_SDL2](http://www.mediafire.com/file/qzxo0g3myhcpbt1/Kalah_SDL2.rar/file)
   
  
  ENJOY IT
