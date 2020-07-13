@@ -22,6 +22,11 @@ How to run the game ?
           
  This version of code contains only french comments. If the english comments are needed, i will make the english comments version soon.
  
+ Download Links:
+  Console: (KalahGame)[http://www.mediafire.com/file/dea7hup4amralo9/Kalah_Console.rar/file]
+  GUI: (KalahGame)[http://www.mediafire.com/file/qzxo0g3myhcpbt1/Kalah_SDL2.rar/file]
+  
+ 
  ENJOY IT
     
 
