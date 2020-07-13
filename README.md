@@ -1,7 +1,7 @@
 # kalah-game
 kalah game known also as mancala game made with C and SDL2. Here you will find either console version or graphical user interface version.
 
-How to run the game ?
+#How to run the game ?
 
   Console version
   
@@ -22,7 +22,7 @@ How to run the game ?
           
  This version of code contains only french comments. If the english comments are needed, i will make the english comments version soon.
  
- Download Links
+Download Links
  
   Console: [Kalah_Console](http://www.mediafire.com/file/dea7hup4amralo9/Kalah_Console.rar/file) 
     
